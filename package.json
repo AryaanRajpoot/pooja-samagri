@@ -1,0 +1,9 @@
+{
+  "name": "pooja-samagri",
+  "version": "1.0.0",
+  "description": "Pooja Samagri & Pandit Booking landing page",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static site build complete'"
+  }
+}
